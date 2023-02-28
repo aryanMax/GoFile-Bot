@@ -10,3 +10,4 @@ A telegram media to gofile uploader bot
 - `BOT_TOKEN` Your bot token from @BotFather
 
 ---
+[![Develop on Okteto](https://okteto.com/develop-okteto.svg)](https://cloud.okteto.com)
